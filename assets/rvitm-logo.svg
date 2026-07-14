@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="RVITM crest placeholder">
+  <circle cx="50" cy="50" r="46" fill="#ffffff" stroke="#0f1c3f" stroke-width="2.5"/>
+  <circle cx="50" cy="50" r="38" fill="none" stroke="#0f1c3f" stroke-width="1.2"/>
+  <text x="50" y="58" font-family="Georgia, serif" font-size="30" font-weight="700" fill="#0f1c3f" text-anchor="middle">RV</text>
+</svg>
