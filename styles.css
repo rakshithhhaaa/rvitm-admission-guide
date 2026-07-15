@@ -52,6 +52,7 @@ img { max-width: 100%; display: block; }
 
 .site-header-inner {
   max-width: var(--max-width);
+  width: 100%;
   margin: 0 auto;
   display: flex;
   align-items: center;
@@ -113,6 +114,7 @@ img { max-width: 100%; display: block; }
 
 main {
   max-width: var(--max-width);
+  width: 100%;
   margin: 0 auto;
   padding: 28px 20px 40px;
 }
@@ -622,6 +624,7 @@ section.info-section:first-of-type {
 
 .footer-nav-inner {
   max-width: var(--max-width);
+  width: 100%;
   margin: 0 auto;
   padding: 12px 20px;
   display: flex;
@@ -677,12 +680,13 @@ section.info-section:first-of-type {
 
 .qr-box {
   max-width: var(--max-width);
+  width: 100%;
   text-align: center;
   background: #fff;
   border: 1px solid #e7e0db;
   border-radius: 14px;
   padding: 20px;
-  margin: 24px 0;
+  margin: 24px auto;
 }
 
 .qr-img {
