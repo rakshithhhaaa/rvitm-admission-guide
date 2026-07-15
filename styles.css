@@ -676,6 +676,7 @@ section.info-section:first-of-type {
 }
 
 .qr-box {
+  max-width: var(--max-width);
   text-align: center;
   background: #fff;
   border: 1px solid #e7e0db;
@@ -685,6 +686,7 @@ section.info-section:first-of-type {
 }
 
 .qr-img {
+  margin: 0 auto;
   width: 160px;
   height: 160px;
 }
@@ -693,4 +695,11 @@ section.info-section:first-of-type {
   margin: 10px 0 0;
   font-size: 13px;
   color: #6b625d;
+}
+
+.step-screenshot {
+  max-width: 100%;
+  border: 1px solid #e7e0db;
+  border-radius: 10px;
+  margin-top: 10px;
 }
