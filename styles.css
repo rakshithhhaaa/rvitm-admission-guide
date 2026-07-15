@@ -674,3 +674,23 @@ section.info-section:first-of-type {
   .footer-btn { padding: 9px 12px; font-size: 13px; }
   .site-header .brand-text .title { font-size: 16px; }
 }
+
+.qr-box {
+  text-align: center;
+  background: #fff;
+  border: 1px solid #e7e0db;
+  border-radius: 14px;
+  padding: 20px;
+  margin: 24px 0;
+}
+
+.qr-img {
+  width: 160px;
+  height: 160px;
+}
+
+.qr-caption {
+  margin: 10px 0 0;
+  font-size: 13px;
+  color: #6b625d;
+}
